@@ -1,0 +1,13 @@
+name: Word Count
+version: '1.0.0'
+description: A simple word count plugin
+icon: italic
+author:
+  name: Dimitri Longo
+  email: dimitri.longo@gmail.com
+  url: https://github.com/dimitrilongo/grav-plugin-wordcount
+homepage: https://github.com/dimitrilongo/grav-plugin-wordcount
+bugs: https://github.com/dimitrilongo/grav-plugin-wordcount/issues
+keywords: [wordcount, grav, plugin]
+readme: https://github.com/dimitrilongo/grav-plugin-wordcount/blob/master/README.md
+license: MIT
